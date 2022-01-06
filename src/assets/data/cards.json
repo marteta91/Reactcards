@@ -1,0 +1,40 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "imgName": "waikiki Beach sunset",
+      "imgUser": "Maria",
+      "imgURL": "beach"
+    },
+    {
+      "id": 2,
+      "imgName": "stars at night",
+      "imgUser": "Marta",
+      "imgURL": "stars"
+    },
+    {
+      "id": 3,
+      "imgName": "Full Moon",
+      "imgUser": "Andreu",
+      "imgURL": "moon"
+    },
+    {
+      "id": 4,
+      "imgName": "Ankor temple",
+      "imgUser": "Pepito",
+      "imgURL": "temple"
+    },
+    {
+      "id": 5,
+      "imgName": "Lost",
+      "imgUser": "Dog",
+      "imgURL": "Dog"
+    },
+    {
+      "id": 6,
+      "imgName": "Main coon",
+      "imgUser": "Donald",
+      "imgURL": "Cats"
+    }
+  ]
+}

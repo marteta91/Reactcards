@@ -1,0 +1,35 @@
+.ct-header {
+  @include display();
+  width: 100vw;
+  height: 53px;
+  background-color: $colorHeader;
+  justify-content: space-between;
+}
+
+.img-logo {
+  filter: $filterPrincipal;
+  width: 100%;
+  margin-left: 40%;
+  margin-top: 10px;
+}
+
+.txtColor1 {
+  color: $colorPrimary;
+  margin-right: 5%;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+.txtColor2 {
+  font-size: 1rem;
+  color: rgb(62, 3, 65);
+  text-decoration: none;
+  margin-right: 5%;
+  margin-top: 10px;
+}
+.txt.title {
+  font-size: 1rem;
+  color: $colorPrimary;
+  display: flex;
+  justify-content: center;
+}
